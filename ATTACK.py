@@ -13,7 +13,7 @@ password =input("[•] Password : ")
 time.sleep(5)
                                 
 if password=="USER-CYBER":
-	print("[•] Correct...")
+	print("[•] Loading!!...")
 	time.sleep(5)
 else:
 		print("\033[91m[×] Wrong Password!!!")
